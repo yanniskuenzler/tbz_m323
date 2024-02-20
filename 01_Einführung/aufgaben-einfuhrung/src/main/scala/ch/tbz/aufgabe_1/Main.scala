@@ -1,7 +1,11 @@
 package ch.tbz.aufgabe_1
 
 object Main extends App {
-  println(calculateScore("yannis"));
+  println(calculateScore("imperative"));
+  println(calculateScore("no"));
+  println(wordScore("declarative"));
+  println(wordScore("yes"));
+
   def calculateScore(word: String) = {
     var score = 0
     for (c <- word.toCharArray) {
@@ -11,5 +15,8 @@ object Main extends App {
     }
     score
   }
+
+  def wordScore(word: String) = word.count(_ != 'a')
+
 
 }
