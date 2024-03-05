@@ -9,8 +9,6 @@ object Main extends App {
 
   System.out.println("Discount with book: " + discountWithBook)
   System.out.println("Discount without book: " + discountWithoutBook)
-  
-  
 
   def getDiscountPercentage(items: List[String]): Double = {
     val bookAdded = items.contains("book")

@@ -3,7 +3,7 @@ package ch.tbz.aufgabe_2_1
 import java.util
 
 object Main extends App {
-    val cart = new ShoppingCart
+    var cart = new ShoppingCart
     cart.addItem("book")
     cart.addItem("pen")
     System.out.println("Book added: " + cart.isBookAdded)
