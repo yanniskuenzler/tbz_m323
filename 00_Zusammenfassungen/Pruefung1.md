@@ -68,7 +68,7 @@ Welche Aussagen in Bezug auf pure functions sind richtig, welche Aussagen sind f
     * Falsch
 
 Gegeben ist folgende Funktion und ihre Aufrufe in Scala:
-￼
+![alt text](image.png)
 Welche Aussagen in Bezug auf den gegebenen Code sind richtig, welche Aussagen sind falsch?
 * Bei der Funktion sumOfArray handelt es sich um eine pure function, weil alle Regeln für pure functions eingehalten werden.
     * Richtig
@@ -78,7 +78,7 @@ Welche Aussagen in Bezug auf den gegebenen Code sind richtig, welche Aussagen si
     * Richtig
 
 Gegeben ist folgende Funktion in JavaScript:
-￼
+![alt text](image-1.png)
 Welche Aussagen in Bezug auf den Code sind richtig, welche Aussagen sind falsch?
 * Bei der Funktion getBiggestScaleFactor handelt es sich um eine pure function, weil alle Regeln für pure functions eingehalten werden.
     * Falsch
@@ -98,7 +98,7 @@ Welche Aussagen in Bezug auf immutable values sind richtig, welche Aussagen sind
     * Richtig
 
 Gegeben ist folgende JavaScript-Funktion:
-￼
+![alt text](image-2.png)
 Beachten Sie für die Beantwortung der Fragen, dass bei JavaScript einfache Werte wie ein Integer immer als "call by value" übergeben werden. Objekte werden in JavaScript standardmässig immer als "call by reference" übergeben.
 
 Welche Aussagen in Bezug auf den Code sind richtig, welche Aussagen sind falsch?
