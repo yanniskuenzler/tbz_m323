@@ -6,5 +6,7 @@ function getSort(array) {
 }
 
 function compareTwo(first, second) {
-    first.substring(0,1) > second.substring(0,1)
+    if (first.substring(0,1) > second.substring(0,1)) {
+        
+    }
 }
