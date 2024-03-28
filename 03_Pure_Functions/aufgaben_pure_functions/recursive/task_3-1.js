@@ -1,3 +1,5 @@
+// Eine Funktion, die aus einer Liste von Zahlen die Summe aller Listenelemente berechnet.
+
 let numArray = [1, 2, 3, 4];
 
 function getSum(array) {

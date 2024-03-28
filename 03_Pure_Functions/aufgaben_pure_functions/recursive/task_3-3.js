@@ -1,3 +1,5 @@
+// Eine Funktion, die eine gegebene Liste von Strings alphabetisch sortiert.
+
 let names = ["yannis", "laurin", "leon", "aladin", "beladin", "celadin"];
 
 function getSort(array) {

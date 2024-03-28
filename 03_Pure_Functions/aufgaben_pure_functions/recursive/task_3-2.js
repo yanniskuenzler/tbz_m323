@@ -1,3 +1,5 @@
+// Eine Funktion, die aus einer Liste von Zahlen den Mittelwert aller Listenelemente berechnet.
+
 let numArray = [1, 2, 3, 4];
 
 function getSum(array) {

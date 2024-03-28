@@ -1,0 +1,1 @@
+// Eine Funktion, die eine Liste von Objekten anhand einer eigenen Sort-Funktion sortiert. Die Objekte sollen dabei die Properties Datum, Priorität und Titel enthalten. Die Funktion soll eine sortierte Liste der Objekte zurückgeben, wobei als Sortierkriterium zuerst das Datum, dann die Priorität und zum Schluss der Titel verwendet werden.
